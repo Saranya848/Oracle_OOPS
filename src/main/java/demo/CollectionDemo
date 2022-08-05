@@ -1,0 +1,10 @@
+Collection has few types List, Set, Queue, Map.
+Limitations of arrays
+	Array is fixed so can't change later
+	Arrays can hold only homogeneous data elements
+	Ready made APIs support is not available in array.
+
+List:ArrayList, LinkedList, Vector, Stack.
+Set:HashSet, LinkedHashSet,sortedSet:TreeSet
+Queue:PriorityQueue, Deque, ArrayDeque
+Map:HashMap, HashTable, LinkedHashMap, sortedmap:treemap
