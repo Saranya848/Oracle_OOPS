@@ -1,0 +1,14 @@
+Java 8 features:
+	Lambda Expressions
+	Functional Interfaces and Predefined Functional Interfaces
+	Measure Reference and types of method References
+	Optional class to avoid nullpointerExpressions
+	Default
+	Stream APIs:filters, sorting, map,finding, collecting
+	
+
+A lambda expression is a short block of code which takes in parameters and returns a value. Lambda expressions are similar to methods, but they do not need a name and they can be implemented right in the body of a method.
+Lambda Expression is Anonymous Function
+simplest lambda expression
+	Single: parameter -> expression
+	Multiple: (parameter1, parameter2) -> expression
